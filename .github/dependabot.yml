@@ -13,3 +13,7 @@ updates:
     directory: "/ruby"
     schedule:
       interval: "weekly"
+  - package-ecosystem: cargo
+    directory: "/rust"
+    schedule:
+      interval: "weekly"
